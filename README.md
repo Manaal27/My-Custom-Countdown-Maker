@@ -24,6 +24,6 @@ I am using a google calendar API with time and date
 https://manaal27.github.io/My-Custom-Countdown-Maker/
 
 # copyright and license information
-All rights reserved @Manaal 2022
+ALL RIGHTS RESERVED @MANAAL 2022
 
 if you would be interested to contribute to my project contact me at manaal.basabra2427@gmail.com
