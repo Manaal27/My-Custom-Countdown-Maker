@@ -24,7 +24,7 @@
 5.a video at the background that shows an hourglass, representing our countdown.
 
 # public API
-I am using a date and time API
+I am using a google calendar API
 
 # About Project
 this poject gives you an ability to write an html with a link to its style css that helps put features like background photos and a video and proper design to the project and a javaScript to help communicate to the server i.e when we input our special ocassion and date and time and the countdown displayed.
