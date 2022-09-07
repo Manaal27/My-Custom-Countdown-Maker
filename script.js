@@ -115,7 +115,7 @@ fetch('https://wonderboyapi.p.rapidapi.com/lastDateAndTime', options)
    updateDOM();  
   }  
  }  
- // Event Listener  
+ // My Event Listeners  
  countdownForm.addEventListener('submit', updateCountdown);  
  resetBtn.addEventListener('click', reset);  
  completeBtn.addEventListener('click', reset);  
