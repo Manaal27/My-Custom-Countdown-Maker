@@ -50,7 +50,7 @@ fetch('https://wonderboyapi.p.rapidapi.com/lastDateAndTime', options)
    const seconds = Math.floor((distance % minute) / second);  
    // Hide Input  
    inputContainer.hidden = true;  
-   // If countdown has ended, show complete messaging  
+   // If countdown has ended, show the complete messaging  
    if (distance < 0) {  
     countdownEl.hidden = true;  
     clearInterval(countdownActive);  
@@ -69,7 +69,7 @@ fetch('https://wonderboyapi.p.rapidapi.com/lastDateAndTime', options)
    }  
   }, second);  
  }  
- // Take Values from form input  
+ // Take Values from the form input  
  function updateCountdown(event) {  
   event.preventDefault();  
   countdownTitle = event.srcElement[0].value;  
@@ -83,7 +83,7 @@ fetch('https://wonderboyapi.p.rapidapi.com/lastDateAndTime', options)
   if (countdownDate === '') {  
    alert('Please select a date for the countdown.');  
   } else {  
-   // Get the numbner version of current date and update DOM  
+   // Get the number version of current date and update DOM  
    countdownValue = new Date(countdownDate).getTime();  
    updateDOM();  
   } 
