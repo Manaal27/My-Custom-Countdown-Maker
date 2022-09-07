@@ -17,19 +17,19 @@
 4)create another countdown once your current countdown is finished
 
 # project MVP
-1. a backgroung image displayed on the page when minimised that is well fitted to the page
+1. a background image displayed on the page when minimised that is well fitted to the page
 2. an input box will show the days,hours and seconds till your countdown date.
-3. an input box displaying that the countdown has been completed with the words moving.
-4.a social media icons at the bottom of the page 
-5.a video at the background that shows an hourglass representing our countdown that loops 
+3. an input box displaying that the countdown has been completed.
+4.a social media icons that are displayed.
+5.a video at the background that shows an hourglass, representing our countdown.
 
 # public API
-I am using google 
+I am using a date and time API
 
 # About Project
 this poject gives you an ability to write an html with a link to its style css that helps put features like background photos and a video and proper design to the project and a javaScript to help communicate to the server i.e when we input our special ocassion and date and time and the countdown displayed.
 
-I choose this project because it enables me work through all the things i learnt in this Phase 1,from learning to make DOMContent loaded to different types of event listeners and to having json server.
+I chose this project because it enables me work through all the things i learnt in this Phase 1,from learning to make DOMContent loaded to different types of event listeners and communicating with my server.
 
 # Guidelines for making a test in script.js
  // Elements
@@ -57,7 +57,7 @@ I choose this project because it enables me work through all the things i learnt
 
     // Check for valid date  
 
-    // Get the numbner version of current date and update DOM  
+    // Get the number version of current date and update DOM  
 
     // Reset all values  
 
