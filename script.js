@@ -11,7 +11,7 @@ fetch('https://wonderboyapi.p.rapidapi.com/lastDateAndTime', options)
 	.then(response => response.json())
 	.then(response => console.log(response))
 	.catch(err => console.error(err));
- // Elements
+ // Elements in const
  const inputContainer = document.getElementById('input-container');  
  const countdownForm = document.getElementById('countdownForm');  
  const dateEl = document.getElementById('date-picker');  
