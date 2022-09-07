@@ -1,0 +1,23 @@
+{
+  "name": "my-custom-countdown-maker",
+  "version": "1.0.0",
+  "description": "# requirements for the project",
+  "main": "script.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manaal27/My-Custom-Countdown-Maker.git"
+  },
+  "keywords": [
+    "custom",
+    "maker"
+  ],
+  "author": "Manaal Basabra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manaal27/My-Custom-Countdown-Maker/issues"
+  },
+  "homepage": "https://github.com/Manaal27/My-Custom-Countdown-Maker#readme"
+}
