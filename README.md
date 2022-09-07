@@ -1,14 +1,8 @@
-# My-Custom-Countdown-Maker
+# project Name
+My Custom Countdown Maker
 
-# requirements for the project
-
-1. # Your app must be a HTML/CSS/JS front-end that accesses data from a public API. All interactions between the client and the API should be handled asynchronously and use JSON as the communication format.
-2. # Your entire app must run on a single page. There should be NO redirects. In other words, your project will contain a single HTML file.
-3. # Your app needs to incorporate at least 3 separate event listeners (DOMContentLoaded, click, change, submit, etc).
-4. # Some interactivity is required. This could be as simple as adding a “like” button or adding comments. These interactions do not need to persist after reloading the page.
-5. # Follow good coding practices. Keep your code DRY (Do not repeat yourself) by utilizing functions to abstract repetitive code.
-4. # Stretch Goals
-# Use json-server (Links to an external site.) in your project to persist your app’s interactivity.
+# Author Name
+Manaal Basabra
 
 # Project Description
 1) create a title for your countdown in the countdown input box #special Occasion i.e graduation ceremony.
@@ -16,62 +10,20 @@
 3) reset your countdown if you want to change the date you want to countdown to
 4)create another countdown once your current countdown is finished
 
-# project MVP
+# project MVP/project setup instructions
 1. a background image displayed on the page when minimised that is well fitted to the page
 2. an input box will show the days,hours and seconds till your countdown date.
 3. an input box displaying that the countdown has been completed.
-4.a social media icons that are displayed.
+4. social media icons that are displayed.i.e github
 5.a video at the background that shows an hourglass, representing our countdown.
 
 # public API
 I am using a google calendar API with time and date
 
-# About Project
-this poject gives you an ability to write an html with a link to its style css that helps put features like background photos and a video and proper design to the project and a javaScript to help communicate to the server i.e when we input our special ocassion and date and time and the countdown displayed.
+# link to the github page
+https://manaal27.github.io/My-Custom-Countdown-Maker/
 
-I chose this project because it enables me work through with the things i learnt in HTML,CSS and javaScript and from learning to make DOMContent loaded to different types of event listeners and communicating with my server.
+# copyright and license information
+All rights reserved @Manaal 2022
 
-# Guidelines for making a test in script.js
- // Elements
-
- // Global Variables 
-
- // Time Variables
-
- // Set date input minimum with todays date 
-
- / Populate countdown / complete UI 
-
-  // Get the time between Jan 1, 1970 to the entered date, returned in milliseconds.  
-
-  // Split up the time held in distance into days, hours, minutes, and seconds.  
-
-   // Hide Input
-
-   // If countdown has ended, show complete messaging
-
-    // Else, Show countdown in progress  
-    // Populate the countdown  
-
-    // Take Values from form input
-
-    // Check for valid date  
-
-    // Get the number version of current date and update DOM  
-
-    // Reset all values  
-
-    // Hide Countdown and show input
-
-    // Stop the countdown 
-
-    // Reset Values 
-
-    // Get the countdown from localStorage if available 
-
-     // Event Listener 
-
-     // On Load 
-
-     
-
+if you would be interested to contribute to my project contact me at manaal.basabra2427@gmail.com
