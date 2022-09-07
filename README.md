@@ -29,7 +29,7 @@ I am using a date and time API
 # About Project
 this poject gives you an ability to write an html with a link to its style css that helps put features like background photos and a video and proper design to the project and a javaScript to help communicate to the server i.e when we input our special ocassion and date and time and the countdown displayed.
 
-I chose this project because it enables me work through all the things i learnt in this Phase 1,from learning to make DOMContent loaded to different types of event listeners and communicating with my server.
+I chose this project because it enables me work through with the things i learnt in HTML,CSS and javaScript and from learning to make DOMContent loaded to different types of event listeners and communicating with my server.
 
 # Guidelines for making a test in script.js
  // Elements
