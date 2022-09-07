@@ -79,7 +79,7 @@ fetch('https://wonderboyapi.p.rapidapi.com/lastDateAndTime', options)
    date: countdownDate,  
   };  
   localStorage.setItem('countdown', JSON.stringify(savedCountdown));  
-  // Check for valid date  
+  // Check for a valid date  
   if (countdownDate === '') {  
    alert('Please select a date for the countdown.');  
   } else {  
